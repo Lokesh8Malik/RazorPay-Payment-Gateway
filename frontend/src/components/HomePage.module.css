@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    /* border: 1px solid black; */
+    height: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
